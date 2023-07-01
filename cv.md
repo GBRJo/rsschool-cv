@@ -2,13 +2,13 @@
 ##### Contacts
 ###### E-mail - anchernyakova@yandex.ru
 ###### portfolio - [behance] (https://www.behance.net/portffolio "описание" ), dribble
-### About myself
-###### portfolio - behance, dribble ggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoia
+## About myself
+> portfolio - behance, dribble ggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoia
 
 
-### Skills
+## Skills
 > * Пункт
- * Еще один пункт
-   * Подпункт
-   * Еще один подпункт
+> * Еще один пункт
+>   * Подпункт
+>   * Еще один подпункт
 

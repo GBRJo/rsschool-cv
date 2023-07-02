@@ -9,18 +9,15 @@
 
 
 ### Skills
-> portfolio \
-> portfolio \
-> portfolio \
-> portfolio \
-> portfolio \
+> **design**\
+> figma \
+> adobe creative cloud \
+> cinema 4d \
+> sketch up \
+> zbrash \
+> **front-end**\
+> zbrash \
 
-### About myself
-> portfolio - behance, dribble ggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoia
-
-
-### About myself
-> portfolio - behance, dribble ggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoia
 
 
 

@@ -10,13 +10,10 @@
 
 ### Skills
 > **design**\
-> figma \
-> adobe creative cloud \
-> cinema 4d \
-> sketch up \
-> zbrash \
+> figma; adobe creative cloud; cinema 4d; sketch up; zbrash \
+
 > **front-end**\
-> zbrash \
+> zbrash 
 
 
 

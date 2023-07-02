@@ -5,7 +5,7 @@
 
 
 ### About myself
-> portfolio - behance, dribble ggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoiaggiugiggcagcuicga;ugiugiuzgsigvoGhvoihoiahoihvoia
+> Hello. I am a ui\ux designer whith a front-end knolege. I have a work expiriense in this area about more then 5 year, and about 15 years of work expiriense in design. 
 
 
 ### Skills

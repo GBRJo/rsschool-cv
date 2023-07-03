@@ -1,111 +1,48 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Мое портфолио</title>
-    <style>
-        body {
-            background-color: #222;
-            color: #fff;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            background-color: #111;
-            text-align: center;
-            padding: 20px 0;
-        }
-        .header img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-        }
-        .header h1, .header p {
-            margin: 10px 0;
-        }
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .section {
-            width: 16.66666%;
-            padding: 20px;
-        }
-        .section:nth-child(odd) {
-            background-color: #333;
-        }
-        .section:nth-child(even) {
-            background-color: #444;
-        }
-        .section h2 {
-            color: #fff;
-            margin-top: 0;
-        }
-        .gallery {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .gallery img {
-            width: 100%;
-            height: auto;
-            margin-top: 10px;
-        }
-        .footer {
-            background-color: #111;
-            text-align: center;
-            padding: 20px 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="header section">
-        <img src="your_photo.jpg" alt="Your Photo">
-        <h1>Имя Фамилия</h1>
-        <p>Контакты</p>
-    </div>
-    <div class="about section">
-        <h2>О себе</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut lacus et ipsum fermentum dapibus.</p>
-    </div>
-    <div class="works section">
-        <h2>Галерея работ</h2>
-        <div class="gallery">
-            <img src="work_1.jpg" alt="Work 1">
-            <img src="work_2.jpg" alt="Work 2">
-            <img src="work_3.jpg" alt="Work 3">
-        </div>
-    </div>
-    <div class="programs section">
-        <h2>Программы</h2>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заголовок страницы</title>
+    <link rel="stylesheet" href="./styles/style.css">
+
+    <meta property="og:title" content="Заголовок страницы в OG">
+    <meta property="og:description" content="Описание страницы в OG">
+    <meta property="og:image" content="https://example.com/image.jpg">
+    <meta property="og:url" content="https://example.com/">
+  </head>
+  <body>
+    <header>
+      <h1>Это мой сайт</h1>
+      <p>Он хороший</p>
+      <nav>
         <ul>
-            <li>Программа 1</li>
-            <li>Программа 2</li>
-            <li>Программа 3</li>
+          <li><a href="index.html">Эта страница</a></li>
+          <li><a href="catalog.html">Другая страница</a></li>
         </ul>
-    </div>
-    <div class="experience section">
-        <h2>Опыт работы</h2>
-        <ul>
-            <li>Место работы 1</li>
-            <li>Место работы 2</li>
-            <li>Место работы 3</li>
-        </ul>
-    </div>
-    <div class="education section">
-        <h2>Образование</h2>
-        <ul>
-            <li>Учебное заведение 1</li>
-            <li>Учебное заведение 2</li>
-            <li>Учебное заведение 3</li>
-        </ul>
-    </div>
-    <div class="english section">
-        <h2>Уровень английского</h2>
-        <p>Intermediate</p>
-    </div>
-    <div class="footer">
-        <p>© 2022 Мое портфолио. Все права защищены.</p>
-    </div>
-</body>
+      </nav>
+    </header>
+    <main>
+      <article>
+        <section>
+          <h2>Первая секция</h2>
+          <p>Она обо мне</p>
+          <img src="images/image.png" alt="Человек и пароход">
+          <p>Но может быть и о семантике, я пока не решил.</p>
+        </section>
+        <section>
+          <h2>Вторая секция</h2>
+          <p>Она тоже обо мне</p>
+        </section>
+        <section>
+          <h2>И третья</h2>
+          <p>Вы уже должны были начать догадываться.</p>
+        </section>
+      </article>
+    </main>
+    <footer>
+      <p>Сюда бы я вписал информацию об авторе и ссылки на другие сайты</p>
+    </footer>
+    <!-- сюда можно подключить jquery <script src="scripts/app.js" defer></script> -->
+  </body>
 </html>

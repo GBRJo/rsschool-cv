@@ -18,22 +18,26 @@
 ### Expiriense
 > **UKsoft**\
 > UI/UX Designer\
-Creating and prototyping interfaces for websites, applications, CRM systems, personal accounts.\
+Creating and prototyping interfaces for websites, applications, CRM systems, personal accounts.
 >
 > **meta-web**\
 > UI/UX Designer\
 > Information technology, systems integration, internet... Show more
 UI/UX designer and front-end developer, designer
-Designing, prototyping, and front-end development of UI and UX for websites, plugins, and applications. Development and implementation of interfaces and the overall visual identity of products. From user interaction diagrams and interfaces to logos, branding, and promotions.\ 
+Designing, prototyping, and front-end development of UI and UX for websites, plugins, and applications. Development and implementation of interfaces and the overall visual identity of products. From user interaction diagrams and interfaces to logos, branding, and promotions.
+>
 > **Smart design**\
 > Designer\
-> Rebranding. Updating corporate identity. Graphic design of company materials (product matrices, labels, presentations, business cards, notebooks, etc.). Design of specifications for manufactured products.\
+> Rebranding. Updating corporate identity. Graphic design of company materials (product matrices, labels, presentations, business cards, notebooks, etc.). Design of specifications for manufactured products.
+>
 > **Opening factoring**\
 > Designer
-> Creating and maintaining landing pages and company websites. Graphic design for company advertising materials (brochures, booklets, roll-ups, packaging, etc.), social media branding. Design and decoration of mass events and conferences (badges, welcome screens, brand walls, photo zones).\ 
+> Creating and maintaining landing pages and company websites. Graphic design for company advertising materials (brochures, booklets, roll-ups, packaging, etc.), social media branding. Design and decoration of mass events and conferences (badges, welcome screens, brand walls, photo zones).
+> 
 > **Picasso games**\
 > artist & ui/ux designer
-> Creating and animating characters, locations, and interfaces for flash games.\
+> Creating and animating characters, locations, and interfaces for flash games.
+>
 > **Workshop of the world**\
 > Designer
 > Development of label design, logos.

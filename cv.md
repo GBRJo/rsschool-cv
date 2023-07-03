@@ -13,14 +13,14 @@
 > figma; adobe creative cloud; cinema 4d; sketch up; zbrash 
 
 > **front-end**\
-> Html; css; Ui libraries; Visual Studio Code; Git
+> Html; Css; Ui libraries; Visual Studio Code; Git
 
 ### Expiriense
 > **UKsoft**\
 > UI/UX Designer\
 Creating and prototyping interfaces for websites, applications, CRM systems, personal accounts.
 >
-> **meta-web**\
+> **Meta-web**\
 > UI/UX Designer\
 > Information technology, systems integration, internet... Show more
 UI/UX designer and front-end developer, designer

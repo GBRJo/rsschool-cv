@@ -18,7 +18,7 @@
 ### Expiriense
 > **UKsoft**\
 > UI/UX Designer\
-Creating and prototyping interfaces for websites, applications, CRM systems, personal accounts\ 
+Creating and prototyping interfaces for websites, applications, CRM systems, personal accounts.\
 > **meta-web**\
 > UI/UX Designer\
 > Information technology, systems integration, internet... Show more

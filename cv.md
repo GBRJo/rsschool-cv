@@ -42,7 +42,7 @@ Designing, prototyping, and front-end development of UI and UX for websites, plu
 > Designer
 > Development of label design, logos.
 
-### Education
+### Aducation
 > **aratov State University named after N.G. Chernyshevsky, Saratov**\
 > Faculty of Physics, Biochemical Physics
 >

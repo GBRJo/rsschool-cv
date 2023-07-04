@@ -1,1 +1,1 @@
-https://GBRJo.github.io/rsschool-cv-html/
+https://GBRJo.github.io/rsschool-cv/index

@@ -91,6 +91,15 @@ body {
 .Programs {
     width: 54px;   
 }
+
+.rs {
+margin-left: 16px;
+width: 80px;
+}
+
+.footer_icon {
+float: right;
+}
  
   .box{
     color: #000;
@@ -253,4 +262,8 @@ body {
     font-weight: 400;
     line-height: 114.5px;
     letter-spacing: 0.4px;   
+  }
+ 
+  .code {
+border: 1px solid #EA7119;
   }

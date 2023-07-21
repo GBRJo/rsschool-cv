@@ -267,8 +267,7 @@ margin-bottom: 20px;
 
 .carousel {
     display: flex;
-    gap: 10px;
-    margin: 20px 0;
+      margin: 35px 0 15px 0;
 }
 
 .dot {
@@ -276,13 +275,21 @@ margin-bottom: 20px;
     height: 16px;
  border-radius: 50%;
     background-color: #0C0C0E;
+    margin: 5px;
+
+    
 }
 
+.dot_box {
+    width: 26px;
+    height: 26px;
+}
 .dot_color {
     width: 16px;
     height: 16px;
  border-radius: 50%;
     background-color: #BB945F;
+    margin: 5px;
 }
 .about_txt {
     margin: 20px 0;
@@ -540,7 +547,7 @@ letter-spacing: 1px;
   width: 520px;
     padding: 8px 20px;
   border: none;
-    color: #8E8E8E;
+    color: #000;
 font-family: Forum;
 font-size: 30px;
 font-style: normal;
@@ -552,7 +559,22 @@ letter-spacing: 0.6px;
     border-radius: 10px;
     background: #FFF;
   }
-  
+
+  input::placeholder {
+    color: #8E8E8E;
+    border: none;
+    
+    font-family: Forum;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px; /* 166.667% */
+    letter-spacing: 0.6px;
+  }
+
+  input:focus-visible {
+    outline: none;
+  }
   .form_header {
 text-align: center;
 color: #000;
@@ -574,8 +596,14 @@ footer {
     padding: 0 20px;
     color: #FFF ;
  
-   
-}
+   }
+   :is(footer) a {
+    color:#FFF;
+  }
+
+  :is(footer) a:hover {
+    color:#BB945F;
+  }
 
 .footer_left {
     display: flex;
@@ -590,7 +618,7 @@ font-family: Inter;
 font-size: 15px;
 font-style: normal;
 font-weight: 400;
-line-height: 20px; /* 133.333% */
+line-height: 20px;
 }
 
 ul.footer_icons {
@@ -598,8 +626,8 @@ ul.footer_icons {
     padding: 0px;
    }
    ul.footer_icons li {
-    display: inline; /* Отображать как строчный элемент */
-    margin-right: 15px; /* Отступ слева */
+    display: inline;
+    margin-right: 15px; 
      }
 
 

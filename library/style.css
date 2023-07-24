@@ -1,0 +1,128 @@
+body {
+    background: #FFF;
+    color: #000;
+    font-family: 'Forum', cursive;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    background: #0C0C0E;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.navigation {
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+
+.logo {
+    color: #FFF;
+    font-family: Forum;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0.6px;
+    flex: auto;
+}
+
+nav ul {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.account-icon img {
+    color: #FFF;
+    width: 28px;
+    height: 28px;
+}
+
+.account-icon {
+    position: relative;
+    display: flex;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.account-icon span {
+    margin-bottom: 5px;
+    color: #000;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 13px;
+    left: -25px;
+    background-color: #fff;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-left: 0px;
+    list-style: none;
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.account-icon:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu li {
+    display: block;
+}
+
+.dropdown-menu li a {
+    display: block;
+    padding: 5px 10px;
+    color: #000;
+    text-decoration: none;
+}
+
+.dropdown-menu li a:hover {
+    font-weight: 700;
+}
